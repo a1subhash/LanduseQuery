@@ -1,4 +1,4 @@
-const csvUrl = "https://raw.githubusercontent.com/a1subhash/LanduseQuery/refs/heads/main/dewahi.csv"";
+const csvUrl = "https://raw.githubusercontent.com/a1subhash/LanduseQuery/refs/heads/main/dewahi.csv";
 let csvData = [];
 
 // Fetch CSV data on page load
